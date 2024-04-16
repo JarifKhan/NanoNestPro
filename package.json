@@ -1,0 +1,17 @@
+{
+  "name": "nanonestpro",
+  "version": "1.0.0",
+  "description": "website name\r nanonest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/input.css -o ./public/style.css --watch",
+    "tio": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
