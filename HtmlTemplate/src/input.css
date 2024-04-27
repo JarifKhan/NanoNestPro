@@ -50,7 +50,7 @@
     }
 
     .prolist ul li ::marker{
-        
+
         color: black;
     }
 
@@ -71,7 +71,7 @@
         margin-right: 0;
         font-weight: bold;
       }
-      
+
       .product-link h2 {
         display: block;
         font-size: 1.15rem;
@@ -81,7 +81,7 @@
         margin-right: 0;
         font-weight: bold;
       }
-      
+
       .product-link h3 {
         display: block;
         font-size: 1.05rem;
@@ -91,7 +91,7 @@
         margin-right: 0;
         font-weight: bold;
       }
-      
+
       .product-link h4 {
         display: block;
         margin-top: 0.95rem;
@@ -100,7 +100,7 @@
         margin-right: 0;
         font-weight: bold;
       }
-      
+
       .product-link h5 {
         display: block;
         font-size: 0.85rem;
@@ -110,7 +110,7 @@
         margin-right: 0;
         font-weight: bold;
       }
-      
+
       .product-link h6 {
         display: block;
         font-size: 0.75rem;
@@ -120,7 +120,7 @@
         margin-right: 0;
         font-weight: bold;
       }
-      
+
       .product-link p {
         display: block;
         margin-top: 1em;
@@ -128,29 +128,29 @@
         margin-left: 0;
         margin-right: 0;
       }
-      
+
       .product-link ol, ul {
         list-style: disc;
       }
-      
+
       .product-link a:link {
         color: blue;
-        cursor: pointer; 
+        cursor: pointer;
       }
-      
+
       .product-link a:visited {
         color: purple;
         cursor: pointer;
       }
-      
+
       .product-link a:active {
         color: red;
       }
-      
+
       .product-link a:visited:active {
         color: red;
       }
-      
+
       .product-link table {
         display: table;
         border-collapse: separate;
@@ -158,38 +158,38 @@
         border-color: black;
         width: 100%;
       }
-      
+
       .product-link tbody {
         display: table-row-group;
         vertical-align: middle;
         border-color: inherit;
       }
-      
+
       .product-link td {
         display: table-cell;
         vertical-align: inherit;
         border: 1px solid black;
       }
-      
+
       .product-link tfoot {
         display: table-footer-group;
         vertical-align: middle;
         border-color: inherit;
       }
-      
+
       .product-link th {
         display: table-cell;
         vertical-align: inherit;
         font-weight: bold;
         text-align: center;
       }
-      
+
       .product-link thead {
         display: table-header-group;
         vertical-align: middle;
         border-color: inherit;
       }
-      
+
       .product-link tr {
         display: table-row;
         vertical-align: inherit;
