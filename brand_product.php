@@ -28,7 +28,7 @@ $result_products = mysqli_query($db, $sql_products);
 ?>
 
 
-    <div class="products">
+        <div class="products">
         
         
             <section class=" xl:w-full xl:max-w-[1188px] mx-2 md:mx-10 lg:mx-20 xl:mx-auto " style="margin-bottom: 50px;">
@@ -86,6 +86,8 @@ $result_products = mysqli_query($db, $sql_products);
                     </div>
                 </div>
             </section>
+
+        </div>
 
        
 

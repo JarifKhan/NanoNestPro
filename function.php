@@ -12,7 +12,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "nanonest";
+$dbname = "nanonest1";
 
 $db = new mysqli($servername, $username, $password, $dbname);
 

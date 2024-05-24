@@ -1,7 +1,3 @@
-</main>
-<!-- Main-->
-
-
 <!-- Footer-->
 <footer>
     <div class="footer-navigation">
@@ -17,7 +13,7 @@
                         <li>
                             <a href="https://www.birkenstock.com/us/us-policies-privacy.html">Privacy Policy</a>
                         </li>
-                        
+
                         <li>
                             <a href="https://www.birkenstock.com/us/us-privacy-do-not-sell-share.html">Do Not Sell or Share My Info</a>
                         </li>
@@ -35,11 +31,11 @@
 
                     <p class="toggle"><strong>ABOUT US</strong></p>
                     <ul class="toggle-content" style="display: none;">
-                        
+
                         <li>
                             <a href="brands.php">Our Brands</a>
                         </li>
-                        
+
                         <li>
                             <a href="outlets.php">Store Location</a>
                         </li>
@@ -60,7 +56,7 @@
                         <li>
                             <a href="#">Payment Method</a>
                         </li>
-                        
+
                         <li>
                             <a href="#">FAQ</a>
                         </li>
@@ -127,6 +123,13 @@
 
 </footer>
 <!-- Footer-->
+
+</main>
+<!-- Main-->
+
+
+
+
 
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

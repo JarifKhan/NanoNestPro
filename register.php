@@ -47,6 +47,7 @@ if (isset($_POST['register'])) {
         <input type="password" name="confirm_password" placeholder="Confirm Password" required>
         <input type="submit" value="Sign up" name="register">
     </form>
+    <p>Already have account? <a style="color: #603913;" href="login.php"><strong>Log in</strong></a></p>
 </div>
 
 

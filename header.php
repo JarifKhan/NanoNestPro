@@ -102,25 +102,25 @@
 
 
                         <?php
-                            
+
                         ?>
 
                         <li class="widget-item">
-                        
-                            
-                        <?php if ($u == 0) { ?>
-                            <a href="login.php" class="widget-link">
-                                <i class="fa-regular fa-heart fa-fw"></i>
-                                <span>WISHLIST</span>
-                            </a>
-                        <?php } else { ;?>
 
-                            <a href="wishlist.php" class="widget-link">
-                                <i class="fa-regular fa-heart fa-fw"></i>
-                                <span>WISHLIST</span>
-                            </a>
 
-                        <?php } ?>
+                            <?php if ($u == 0) { ?>
+                                <a href="login.php" class="widget-link">
+                                    <i class="fa-regular fa-heart fa-fw"></i>
+                                    <span>WISHLIST</span>
+                                </a>
+                            <?php } else {; ?>
+
+                                <a href="wishlist.php" class="widget-link">
+                                    <i class="fa-regular fa-heart fa-fw"></i>
+                                    <span>WISHLIST</span>
+                                </a>
+
+                            <?php } ?>
                         </li>
                         <li class="widget-item">
                             <a href="cart.php" class="widget-link">

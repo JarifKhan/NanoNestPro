@@ -1715,6 +1715,7 @@ video {
 
 footer{
     background-color: #f6f6f6;
+    margin-top: auto;
     
 }
 
@@ -2224,11 +2225,6 @@ footer{
   padding: 0;
 }
 
-.container {
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 0 20px;
-}
 
 .header {
   text-align: center;
@@ -2289,4 +2285,36 @@ footer{
 
 .fdgdf{
   font-family: DINNextCYR-Regular;
+}
+
+.main-site{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#main-site{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#top-sale{
+  padding: 15px;
+}
+
+.slider-item{
+  margin-top: 1.5rem;
+}
+.new-phone{
+  background-color: #e5e7eb;
+  padding: 16px;
+}
+
+.header-box{
+  padding: 10px;
+}
+
+.hr-line{
+  border-color: rgb(211 211 211);
 }
