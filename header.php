@@ -24,7 +24,7 @@
     // USER AUTHENTICATION
     $u = 0;
     if (isset($_SESSION['id'])) {
-        $sql = "SELECT * FROM user WHERE id = " . $_SESSION['id'];
+        $sql = "SELECT * FROM user join phone on user.id=phone.u_id WHERE id = " . $_SESSION['id'];
         $u = ($db->query($sql))->fetch_assoc();
     }
 
